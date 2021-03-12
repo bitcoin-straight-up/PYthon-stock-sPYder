@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=BsZTtGKZweA&ab_channel=%E5%A4%A7%E6%95%B8%E8%BB%9F%E9%AB%94%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8  <--詳細影片教學
+
+
+
 需要下列模組
 
 1.requests
