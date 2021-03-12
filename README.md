@@ -6,7 +6,7 @@
 
 3.pandas
 
-注視事項：
+注意事項：
 
 ![image](https://user-images.githubusercontent.com/80436018/110902204-73455000-8340-11eb-910e-b9d392925fc6.png)
 此段落需設定為自己的主機位址
